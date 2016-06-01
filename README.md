@@ -16,4 +16,5 @@ killer的个人vim配置 集成ctags、cscope、目录树、有道翻译、自�
 
 	sudo apt-get install python-pip
 	sudo pip install requests
- 
+##使用
+使用方法参考 `vimrc` 后面将会补充完整wiki
