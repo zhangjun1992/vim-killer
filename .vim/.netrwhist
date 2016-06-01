@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/zhangjun/openwrt_ar9344/openwrt_15.05_L13.18/openwrt/build_dir/target-mips_34kc_uClibc-0.9.33.2/linux-ar9344_generic'
+let g:netrw_dirhist_2='/home/zhangjun/openwrt_ar9344/openwrt_15.05_L13.18/openwrt/build_dir/target-mips_34kc_uClibc-0.9.33.2'
+let g:netrw_dirhist_3='/home/zhangjun/openwrt_ar9344/openwrt_15.05_L13.18/openwrt/build_dir'
+let g:netrw_dirhist_4='/home/zhangjun/openwrt_ar9344/openwrt_15.05_L13.18/openwrt'
+let g:netrw_dirhist_5='/home/zhangjun/openwrt_ar9344/openwrt_15.05_L13.18'
+let g:netrw_dirhist_6='/home/zhangjun/openwrt_ar9344'
+let g:netrw_dirhist_7='/home/zhangjun'
+let g:netrw_dirhist_8='/home/zhangjun/openwrt_ar9344'
